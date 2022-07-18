@@ -1,0 +1,26 @@
+eu sei  que já tá explanado a mó cota , mas tem uns  cara que n saber imunizar , ent ainda serve pra alguma coisa
+
+é so abrir o termux e ir colando os comandos
+
+use esses dois comandos para instalar o bot :
+
+termux-setup-storage
+--------------------------------------------------------------------------------
+pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs-lts && git clone https://github.com/davizinmaker/tdmclient/ && cd tdmclient && bash install.sh
+--------------------------------------------------------------------
+use para iniciar o bot :
+
+> npm start
+---------------------------------------------------------
+agora é só escaner o bagulho e sair fazendo merda 
+
+outros comandos
+
+> .help
+--------------------------------
+> .menu
+----------
+
+
+
+kibei mesmo fds
